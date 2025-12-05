@@ -1,4 +1,4 @@
-# Regime-Detection
+# Bayes Classifier using Gaussian Prior
 Trading, ML, Naive Baye's Classifier, Gaussian
 
 Here is the link to the Regime Detection document:
